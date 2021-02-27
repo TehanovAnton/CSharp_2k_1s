@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Car xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <speedAccessor>60</speedAccessor>
+  <placesAccessor>8</placesAccessor>
+  <brand>bmv</brand>
+  <speed>60</speed>
+  <places>8</places>
+  <id>1</id>
+</Car>

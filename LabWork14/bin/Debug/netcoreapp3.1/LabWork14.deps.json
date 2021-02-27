@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LabWork14/1.0.0": {
+        "dependencies": {
+          "EcoCore": "7.0.0.12699"
+        },
+        "runtime": {
+          "LabWork14.dll": {}
+        }
+      },
+      "EcoCore/7.0.0.12699": {
+        "runtime": {
+          "lib/net40/Eco.Handles.dll": {
+            "assemblyVersion": "7.0.0.12699",
+            "fileVersion": "7.0.0.12699"
+          },
+          "lib/net40/Eco.Interfaces.dll": {
+            "assemblyVersion": "7.0.0.12699",
+            "fileVersion": "7.0.0.12699"
+          },
+          "lib/net40/Eco.LinqExtender.dll": {
+            "assemblyVersion": "7.0.0.12699",
+            "fileVersion": "7.0.0.12699"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LabWork14/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EcoCore/7.0.0.12699": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/vjV/Ids0m4hIITs6KHHLDKpPvzSGMojcwi27QgKDmTeHZJmfv0W6+KO4KpJBRTuyqUlfYZWCGa/3rckKd1/ZA==",
+      "path": "ecocore/7.0.0.12699",
+      "hashPath": "ecocore.7.0.0.12699.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\Anton\source\repos\Пацей Наталья Владимировна\решение лабароторных работ\LabWork10\bin\Debug\netcoreapp3.1\LabWork10.exe
+C:\Users\Anton\source\repos\Пацей Наталья Владимировна\решение лабароторных работ\LabWork10\bin\Debug\netcoreapp3.1\LabWork10.deps.json
+C:\Users\Anton\source\repos\Пацей Наталья Владимировна\решение лабароторных работ\LabWork10\bin\Debug\netcoreapp3.1\LabWork10.runtimeconfig.json
+C:\Users\Anton\source\repos\Пацей Наталья Владимировна\решение лабароторных работ\LabWork10\bin\Debug\netcoreapp3.1\LabWork10.runtimeconfig.dev.json
+C:\Users\Anton\source\repos\Пацей Наталья Владимировна\решение лабароторных работ\LabWork10\bin\Debug\netcoreapp3.1\LabWork10.dll
+C:\Users\Anton\source\repos\Пацей Наталья Владимировна\решение лабароторных работ\LabWork10\bin\Debug\netcoreapp3.1\LabWork10.pdb
+C:\Users\Anton\source\repos\Пацей Наталья Владимировна\решение лабароторных работ\LabWork10\obj\Debug\netcoreapp3.1\LabWork10.csprojAssemblyReference.cache
+C:\Users\Anton\source\repos\Пацей Наталья Владимировна\решение лабароторных работ\LabWork10\obj\Debug\netcoreapp3.1\LabWork10.AssemblyInfoInputs.cache
+C:\Users\Anton\source\repos\Пацей Наталья Владимировна\решение лабароторных работ\LabWork10\obj\Debug\netcoreapp3.1\LabWork10.AssemblyInfo.cs
+C:\Users\Anton\source\repos\Пацей Наталья Владимировна\решение лабароторных работ\LabWork10\obj\Debug\netcoreapp3.1\LabWork10.csproj.CoreCompileInputs.cache
+C:\Users\Anton\source\repos\Пацей Наталья Владимировна\решение лабароторных работ\LabWork10\obj\Debug\netcoreapp3.1\LabWork10.dll
+C:\Users\Anton\source\repos\Пацей Наталья Владимировна\решение лабароторных работ\LabWork10\obj\Debug\netcoreapp3.1\LabWork10.pdb
+C:\Users\Anton\source\repos\Пацей Наталья Владимировна\решение лабароторных работ\LabWork10\obj\Debug\netcoreapp3.1\LabWork10.genruntimeconfig.cache

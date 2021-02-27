@@ -1,0 +1,27 @@
+Directories:
+	C:\$Recycle.Bin
+	C:\Boot
+	C:\Config.Msi
+	C:\Documents and Settings
+	C:\download java
+	C:\Games
+	C:\Intel
+	C:\masm32
+	C:\Microsoft
+	C:\MSOCache
+	C:\National Instruments Downloads
+	C:\OneDriveTemp
+	C:\PerfLogs
+	C:\Program Files
+	C:\Program Files (x86)
+	C:\ProgramData
+	C:\Recovery
+	C:\System Volume Information
+	C:\Users
+	C:\Windows
+	C:\мои файлы
+Files:
+	C:\bootmgr
+	C:\hiberfil.sys
+	C:\pagefile.sys
+	C:\swapfile.sys

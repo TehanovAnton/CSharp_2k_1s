@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "vCFD6v/vkL6Hm5RD18h28wAHnTEEffXnloXdxC/D7g/J81J0vHePD0GxSiC8XqS8vPqkqG+X+Z3qRLHCiMhpsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anton\\source\\repos\\pacei natalia vladimirovna\\решение лабароторных работ\\LabWork14\\LabWork14.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anton\\.nuget\\packages\\ecocore\\7.0.0.12699\\ecocore.7.0.0.12699.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"EcoCore 7.0.0.12699\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \".NETCoreApp,Version=v3.1\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "EcoCore",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

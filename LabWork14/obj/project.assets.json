@@ -1,0 +1,128 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EcoCore/7.0.0.12699": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Eco.Handles.dll": {},
+          "lib/net40/Eco.Interfaces.dll": {},
+          "lib/net40/Eco.LinqExtender.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Eco.Handles.dll": {},
+          "lib/net40/Eco.Interfaces.dll": {},
+          "lib/net40/Eco.LinqExtender.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EcoCore/7.0.0.12699": {
+      "sha512": "/vjV/Ids0m4hIITs6KHHLDKpPvzSGMojcwi27QgKDmTeHZJmfv0W6+KO4KpJBRTuyqUlfYZWCGa/3rckKd1/ZA==",
+      "type": "package",
+      "path": "ecocore/7.0.0.12699",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "EcoCore.nuspec.org",
+        "ecocore.7.0.0.12699.nupkg.sha512",
+        "ecocore.nuspec",
+        "lib/Unity-Full-v35/Eco.Handles.MonoDevelop.dll",
+        "lib/Unity-Full-v35/Eco.Interfaces.MonoDevelop.dll",
+        "lib/Unity-Full-v35/Eco.LinqExtender.MonoDevelop.dll",
+        "lib/net40/Eco.Handles.dll",
+        "lib/net40/Eco.Interfaces.dll",
+        "lib/net40/Eco.LinqExtender.dll",
+        "lib/portable-windows8+net45/Eco.Handles.PortableCL.dll",
+        "lib/portable-windows8+net45/Eco.Interfaces.PortableCL.dll",
+        "lib/portable-windows8+net45/Eco.Linq.PortableCL.dll",
+        "lib/sl5/Eco.Handles.SL.dll",
+        "lib/sl5/Eco.Interfaces.SL.dll",
+        "lib/sl5/Eco.Linq.SL.dll",
+        "lib/sl5/Eco.Silverlight.SL.dll",
+        "lib/sl5/WECPOFLogicSL.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "EcoCore >= 7.0.0.12699"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Anton\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Anton\\source\\repos\\pacei natalia vladimirovna\\решение лабароторных работ\\LabWork14\\LabWork14.csproj",
+      "projectName": "LabWork14",
+      "projectPath": "C:\\Users\\Anton\\source\\repos\\pacei natalia vladimirovna\\решение лабароторных работ\\LabWork14\\LabWork14.csproj",
+      "packagesPath": "C:\\Users\\Anton\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Anton\\source\\repos\\pacei natalia vladimirovna\\решение лабароторных работ\\LabWork14\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Anton\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "EcoCore": {
+            "target": "Package",
+            "version": "[7.0.0.12699, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"EcoCore 7.0.0.12699\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \".NETCoreApp,Version=v3.1\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "EcoCore",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

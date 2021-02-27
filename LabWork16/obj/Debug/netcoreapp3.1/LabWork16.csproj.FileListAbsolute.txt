@@ -1,0 +1,13 @@
+C:\Users\Anton\source\repos\pacei natalia vladimirovna\решение лабароторных работ\LabWork16\bin\Debug\netcoreapp3.1\LabWork16.exe
+C:\Users\Anton\source\repos\pacei natalia vladimirovna\решение лабароторных работ\LabWork16\bin\Debug\netcoreapp3.1\LabWork16.deps.json
+C:\Users\Anton\source\repos\pacei natalia vladimirovna\решение лабароторных работ\LabWork16\bin\Debug\netcoreapp3.1\LabWork16.runtimeconfig.json
+C:\Users\Anton\source\repos\pacei natalia vladimirovna\решение лабароторных работ\LabWork16\bin\Debug\netcoreapp3.1\LabWork16.runtimeconfig.dev.json
+C:\Users\Anton\source\repos\pacei natalia vladimirovna\решение лабароторных работ\LabWork16\bin\Debug\netcoreapp3.1\LabWork16.dll
+C:\Users\Anton\source\repos\pacei natalia vladimirovna\решение лабароторных работ\LabWork16\bin\Debug\netcoreapp3.1\LabWork16.pdb
+C:\Users\Anton\source\repos\pacei natalia vladimirovna\решение лабароторных работ\LabWork16\obj\Debug\netcoreapp3.1\LabWork16.csprojAssemblyReference.cache
+C:\Users\Anton\source\repos\pacei natalia vladimirovna\решение лабароторных работ\LabWork16\obj\Debug\netcoreapp3.1\LabWork16.AssemblyInfoInputs.cache
+C:\Users\Anton\source\repos\pacei natalia vladimirovna\решение лабароторных работ\LabWork16\obj\Debug\netcoreapp3.1\LabWork16.AssemblyInfo.cs
+C:\Users\Anton\source\repos\pacei natalia vladimirovna\решение лабароторных работ\LabWork16\obj\Debug\netcoreapp3.1\LabWork16.csproj.CoreCompileInputs.cache
+C:\Users\Anton\source\repos\pacei natalia vladimirovna\решение лабароторных работ\LabWork16\obj\Debug\netcoreapp3.1\LabWork16.dll
+C:\Users\Anton\source\repos\pacei natalia vladimirovna\решение лабароторных работ\LabWork16\obj\Debug\netcoreapp3.1\LabWork16.pdb
+C:\Users\Anton\source\repos\pacei natalia vladimirovna\решение лабароторных работ\LabWork16\obj\Debug\netcoreapp3.1\LabWork16.genruntimeconfig.cache

@@ -1,0 +1,57 @@
+﻿string[] names = { "anton", "vlad", "andrew", "maxim" };
+
+            // выборка
+            IEnumerable<string> namesLen5less = from n in names where n.Length <= 5 select n;
+            foreach (var i in namesLen5less)
+                Console.WriteLine(i);
+            
+            // проекция
+            IEnumerable<int> namesLen = from n in names where n.Length <= 5 select n.Length;
+
+            // SelectMany
+            IEnumerable<char> names_SelectMany = names.SelectMany(n => n.ToArray());
+            foreach (var i in names_SelectMany)
+                Console.WriteLine(i);
+
+            // TakeWhile
+            namesLen5less = names.TakeWhile(n => n.Length != 4);
+            foreach (var i in namesLen5less)
+                Console.WriteLine(i);
+
+            // OderBy
+            foreach (var i in names.OrderBy(n => n))
+                Console.WriteLine(i);
+            Console.WriteLine();
+
+            // ThenBy ThenByDescending 
+            names = new string[] { "Анна", "Станислав", "Ольга", "Севаaaa"};
+            foreach (var i in names.OrderBy(n => n.Length).ThenBy(n => n))
+                Console.WriteLine(i);
+
+            foreach (var i in names.OrderBy(n => n.Length).ThenByDescending(n => n))
+                Console.WriteLine(i);
+            Console.WriteLine();
+
+            // Join
+            int[] key = { 1, 4, 5, 7};
+            var someType = names.Join(key, // второй набор
+                n => n.Length,             // критерий которой сравнивается со значениям из второго набора
+                k => k,                    // критерий с которым сравнивается критерий из первого набора 
+                (n, k) => new {            // результат 
+                nameLen = k,
+                name = $"{n}"
+            });
+            foreach (var i in someType)
+                Console.WriteLine(i);
+            Console.WriteLine();
+
+            // GroupBy: одному ключу соответствует несколько значений
+            names = new string[] { "Анна", "anton", "Ольга", "Сева" };
+            var outer = names.GroupBy(n => n.Length);
+            foreach (var i in outer)
+            {
+                Console.WriteLine(i.Key);
+                foreach (var e in i)
+                    Console.WriteLine(e);
+            }
+            Console.WriteLine();
